@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+demo.db
+audit_log.jsonl
+.venv/
+venv/
